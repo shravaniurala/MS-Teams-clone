@@ -8,4 +8,5 @@ The app has been hosted on heruko : https://teams-clone-msengage.herokuapp.com/
 It can be run on the local computer using :
 
 $ npm install
+
 $ npm start
